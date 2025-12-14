@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 ⚔️ 🌀 ⚔️ ━━━━━━━━━━━━━━━━━━━━ ⛩️ 🌀 ⛩️ ━━━━━━━━━━━━━━━━━━━━ ⚔️ 🌀 ⚔️ ━━━━━━━━━━━━━━━━━━━━
 </div>
 <p align="center">
@@ -8,3 +8,23 @@
 <div align="center">
 ⚔️ 🌀 ⚔️ ━━━━━━━━━━━━━━━━━━━━ ⛩️ 🔥 ⛩️ ━━━━━━━━━━━━━━━━━━━━ ⚔️ 🌀 ⚔️ ━━━━━━━━━━━━━━━━━━━━
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=51C1F7&center=true&multiline=true&width=900&height=100&lines=Materials+Engineer+by+Profession.;Looking+for+opportunities+to+break+into+Data+Science.;One+step+at+a+time!" alt="Typing SVG" />
+  </a>
+</p>
+
+<img align="right" alt="coding" width="400" src="assets/analytics.gif">
+
+
+<!-- About Me -->
+
+<p align="left">
+
+- 🎓 I am an alumnus of RUET, majoring in Glass and Ceramic Engineering.<br>
+- 🔍 I’m exploring a potetial career switch to **Data Analytics**, **Data Science**.
+- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with Python</b>
+- 💬 Ask me anything at <b>liakat.bari.shoikat@gmail.com</b>.<br>
+-  ⚡ Fun fact: <i>Eternal Procrastinator</i> 🙁
+</p>
